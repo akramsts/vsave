@@ -15,7 +15,7 @@ This app lets you download content from various websites and links, all in one p
 
 ## Installation
 
-1. Go to the [Releases](../../releases) section of this repository and download the latest APK file.
+1. Go to the [Releases](releases) section of this repository and download the latest APK file.
 2. Open the downloaded file on your Android device.
 3. If prompted, allow installation from unknown sources.
 4. Install and open the app.
