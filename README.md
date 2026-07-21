@@ -33,5 +33,6 @@ This app lets you download content from various websites and links, all in one p
 
 This app may request storage and internet permissions to download and save files to your device.
 
-## Install
-- [VSave](https://github.com/akramsts/vsave/releases/download/1.0/VSave.apk)
+## Author
+
+Made by **Akram**
